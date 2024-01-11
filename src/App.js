@@ -1,25 +1,48 @@
-import logo from './logo.svg';
-import './App.css';
+// import React from "react";
+// import ReactDOM from "react-dom";
+// import "./style.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+// // jxs (99.99% HTML, +20% js)
+// const Hello=()=>{
+//    let a = 10;
+//    let h1Style ={textAlign:"center", border:"2px solid green"};
+//     return (
+//         <div className="hello">
+//              {/* <h1 style = {{textAlign:"center", border:"2px solid green"}}>Hello world, {a}</h1>  */}
+             
+//              <h1 style ={h1Style}>Hello world, {a}</h1> 
+              
+//              <p>{2+3+4+5}</p>   
+//             <p>Hey how are you!</p>
+//         </div>
+       
+//      )
+// }
 
-export default App;
+// ReactDOM.render(<Hello/>, document.getElementById("root"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
